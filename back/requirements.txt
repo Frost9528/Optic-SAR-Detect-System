@@ -1,0 +1,14 @@
+celery==5.5.3
+eventlet==0.39.1
+Flask==2.2.3
+Flask_SocketIO==5.5.1
+flask_sqlalchemy==3.0.3
+pandas==2.0.3
+Pillow==10.4.0
+PyYAML==6.0.2
+PyYAML==6.0.2
+redis==6.1.1
+SQLAlchemy==2.0.34
+ultralytics==8.3.156
+Werkzeug==2.2.3
+
